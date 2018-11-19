@@ -1,0 +1,13 @@
+C:\Users\Valentine\source\repos\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Valentine\source\repos\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Valentine\source\repos\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Valentine\source\repos\BattleShip\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\Valentine\source\repos\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\Valentine\source\repos\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Valentine\source\repos\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\Valentine\Desktop\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Valentine\Desktop\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Valentine\Desktop\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\Valentine\Desktop\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Valentine\Desktop\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Valentine\Desktop\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
